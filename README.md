@@ -90,7 +90,6 @@ PawCare/
 └── README.md         # Project documentation
 ```
 
-*Note: The structure above reflects the project's intended organization. Adjust filenames if your actual repository differs.*
 
 ## ⚙️ Installation and Setup
 
