@@ -1,5 +1,5 @@
 # PawCare-Pet-Clinic-Management-System
-# 🐾 PawCare – Pet Clinic Management System
+
 
 A desktop-based pet clinic management application built with **Python Tkinter** and **MySQL** to manage pet records, veterinarian information, and appointments through a simple graphical user interface.
 
